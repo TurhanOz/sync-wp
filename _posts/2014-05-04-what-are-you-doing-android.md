@@ -1,0 +1,16 @@
+---
+ID: 27
+post_title: What are you doing Android ?
+author: turhan
+post_date: 2014-05-04 21:00:12
+post_excerpt: ""
+layout: post
+permalink: >
+  http://turhanoz.com/what-are-you-doing-android/
+published: true
+dsq_thread_id:
+  - "2665581825"
+---
+<span style="color: #000000;">I, sometimes, don't undestand some design choices made by the Android Team regarding their SDK (AOSP &amp; play-services...)... I have plenty question in my mind while using the SDK...</span><br style="color: #000000;" /><br style="color: #000000;" /><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">But let's take a simple example.</span></span><br style="color: #000000;" /><br style="color: #000000;" /><span style="color: #000000;">I was interested in the Maps v2 SDK and especially the ability to add another <a href="https://developer.android.com/reference/com/google/android/gms/maps/model/TileOverlay.html">TileOverlay</a> while benefiting from the maps core (gesture, rendering &amp; so...).</span><br style="color: #000000;" /><span style="color: #000000;">So I looked into the documentation and found that the <a href="https://developers.google.com/maps/documentation/android/reference/com/google/android/gms/maps/GoogleMap">GoogleMap</a> object has the <a href="https://developer.android.com/reference/com/google/android/gms/maps/GoogleMap.html#addTileOverlay(com.google.android.gms.maps.model.TileOverlayOptions)">addTileOverlay()</a> methods that returns a TileOverlay.</span><br style="color: #000000;" /><br style="color: #000000;" /><strong><span style="color: #000000;">This is exactly what I need. Perfect.</span></strong><br style="color: #000000;" /><br style="color: #000000;" /><span style="color: #000000;">Then, I wanted to remove this overlay. So I looked for the equivalent method, expecting something like <em>removeOverlay(TileOverlay previouslyAddedOverlay)</em> from the GoogleMap object.. But no such thing...</span><br style="color: #000000;" /><span style="color: #000000;">By digging a bit more, one can find the <a href="https://developer.android.com/reference/com/google/android/gms/maps/model/TileOverlay.html#remove()">remove()</a> method from the TileOverlay object itself.</span><br style="color: #000000;" /><br style="color: #000000;" /><strong><span style="color: #000000;">Wait. What is that ??</span></strong>
+
+<span style="color: #000000;">The GoogleMap object has the responsability to add an Overlay but it does not have the one to remove it ? Instead, the added Overlay can remove itself ?</span><br style="color: #000000;" /><span style="color: #000000;">This is, from my point of view, a serious responsability issue. Indeed, if we imagine the underlying implementation, this means that the Overlay has to be highly coupled with its parent so it could ask the latter to remove itself. I think this coupling is just some waste and should have been avoided.</span><br style="color: #000000;" /><br style="color: #000000;" /><span style="color: #000000;">If we try to develop a coherent Object with well defined responsability, we would expect that if Foo could add Bar, Foo should also be responsable for removing Bar...</span><br style="color: #000000;" /><br style="color: #000000;" /><strong><span style="color: #000000;">What do you think ?</span></strong>
