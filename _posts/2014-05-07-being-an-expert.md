@@ -10,6 +10,5 @@ published: true
 dsq_thread_id:
   - "2670394892"
 ---
-> An expert is a person who has made all the mistakes that can be made in a very narrow field.<p style="text-align: right;">
-   -- Niels Bohr
-</p>
+<blockquote>An expert is a person who has made all the mistakes that can be made in a very narrow field.</blockquote>
+<p style="text-align: right;"> -- Niels Bohr</p>

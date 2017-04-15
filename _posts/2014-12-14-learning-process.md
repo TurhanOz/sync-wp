@@ -10,6 +10,5 @@ published: true
 dsq_thread_id:
   - "3329012041"
 ---
-> Your best teacher : Failure !<p style="text-align: right;">
-   -- Turhan Oz
-</p>
+<blockquote>Your best teacher : Failure !</blockquote>
+<p style="text-align: right;"> -- Turhan Oz</p>

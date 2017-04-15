@@ -10,4 +10,4 @@ published: true
 dsq_thread_id:
   - "3630097548"
 ---
-> Money is not an asset, it's a flow.
+<blockquote>Money is not an asset, it's a flow.</blockquote>

@@ -10,6 +10,5 @@ published: true
 dsq_thread_id:
   - "2653447870"
 ---
-> Life is too short to build something nobody wants.<p style="text-align: right;">
-  -- Ash Maurya
-</p>
+<blockquote>Life is too short to build something nobody wants.</blockquote>
+<p style="text-align: right;">-- Ash Maurya</p>
