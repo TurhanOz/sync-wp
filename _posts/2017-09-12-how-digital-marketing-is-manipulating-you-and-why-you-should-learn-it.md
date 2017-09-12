@@ -28,6 +28,8 @@ post_date: 2017-09-12 09:13:06
 
 <div class="DocumentEditor-HeadingNode">
 <h1 data-key="6056"><span data-key="6054">Give them a reason to click !</span></h1>
+<img class="alignnone size-medium" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t35.0-12/21640252_10211911200710139_1384170735_o.jpg?oh=8074e8e41d2ac4526ecc7adc33f33b43&amp;oe=59BA07F0" width="1688" height="1125" />
+
 </div>
 <p data-key="6062"><span data-key="6057">For any online advertisement that you will create, your main goal will be to make the prospective customer to click on your ad in order to redirect him to wherever you need (that might be the app store, your online shopping store or whatever).</span></p>
 <p data-key="6066"><span data-key="6063">But to get a user click on your ad, you have to give him a good reason, more specifically a <strong>psychological</strong> reason to click. The main ones are :</span></p>
