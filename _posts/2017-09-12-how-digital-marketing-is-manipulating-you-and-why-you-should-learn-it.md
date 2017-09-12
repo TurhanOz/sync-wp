@@ -94,7 +94,7 @@ post_date: 2017-09-12 09:13:06
 </div></li>
  	<li class="ListItemNode">
 <div class="ListItem-Content" data-key="6161">
-<div data-key="6160"><span data-key="6158"><strong>show scarcity</strong> as scarce are definitely felt as more valuable.</span></div>
+<div data-key="6160"><span data-key="6158"><strong>show scarcity</strong> as scarce is definitely felt as more valuable.</span></div>
 </div></li>
 </ul>
 <div class="DocumentEditor-HeadingNode">
