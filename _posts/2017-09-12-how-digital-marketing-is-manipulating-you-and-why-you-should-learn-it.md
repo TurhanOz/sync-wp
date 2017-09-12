@@ -64,7 +64,7 @@ post_date: 2017-09-12 09:13:06
 <div data-key="6123"><span data-key="6118"><strong>urgency</strong> : when you create a sens of Urgency, it pushes the user to act NOW, because you are offering a time limited deal (example words : "limited time, only, today, hurry, act now, rush, last chance...")</span></div>
 </div></li>
 </ul>
-<p data-key="6127"><span data-key="6126">For anyone who considers himself as an humanist, using psychological mean to achieve your goad is really unhealthy. But there is always a benefit to know how you can get trapped into being manipulated.</span></p>
+<p data-key="6127"><span data-key="6126">For anyone who considers himself as an humanist, using psychological mean to achieve your goal is really unhealthy. But there is always a benefit to know how you can get trapped into being manipulated.</span></p>
 
 <div class="DocumentEditor-HeadingNode">
 <h1 data-key="6129"><span data-key="6128">Key elements for your Ad copy</span></h1>
