@@ -13,6 +13,7 @@ Entrepreneur, Developer, Investor, Knowledge Sharer.
 </span><span style="line-height: 1.5;">Unconditional Love to Life.
 </span><span style="line-height: 1.5;">Eclectic by nature.
 </span><span style="line-height: 1.5;">staff </span><a style="line-height: 1.5;" href="https://twitter.com/ParisAndroidUG">@ParisAndroidUG</a>
+<span style="line-height: 1.5;">staff </span><a style="line-height: 1.5;" href="https://twitter.com/AndroidMakersFR">@AndroidMakersFR</a>
 <h1>Conferences I gave</h1>
 <ul>
  	<li><strong>Devfest Paris</strong>, February 2016: <em>"Eddystone, an Open Beacon format from Google"</em> (in French) - <a href="https://speakerdeck.com/turhanoz/eddystone-devfest-paris-2016">slides</a></li>
