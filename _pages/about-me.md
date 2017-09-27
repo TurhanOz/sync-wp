@@ -32,6 +32,8 @@ Entrepreneur, Developer, Investor, Knowledge Sharer.
  	<li><strong>France Digital Days</strong>, September 2017 - <a href="http://www.francedigitale.org/FDDay/">event</a></li>
  	<li><strong>Paug</strong>, August 2017: <em>"Apero : DataBinding"</em> - <a href="https://www.meetup.com/fr-FR/Android-Paris/events/242254373/">event</a> <a href="https://docs.google.com/presentation/d/1iGhQ_wqP_YeFBjzKSCK5_VxOrk48xECUUF8Ooh_UIHw/edit#slide=id.gc6f9e470d_0_0">slides</a></li>
  	<li><strong>Paug</strong>, June 2017: <em>"Getting started with Kotlin"</em> - <a href="https://www.meetup.com/fr-FR/Android-Paris/events/240755016/">event</a> slide</li>
+ 	<li><strong>Paug</strong>, May 2017: <em>"I/O Extended 2017 Paris"</em> <a href="https://www.meetup.com/fr-FR/Android-Paris/events/239872164/">event</a></li>
+ 	<li><strong>AndroidMakers</strong>, April 2017: "first edition, 2 days event" - <a href="https://www.meetup.com/fr-FR/Android-Paris/events/237899363/">event</a></li>
  	<li><strong>Entrepreneurs Evolutionnaires</strong>, March 2016: <em>"Positive thinking"</em> - <a href="http://www.meetup.com/les-entrepreneurs-evolutionnaires/events/227991285">event</a></li>
  	<li><strong>Institut Repère</strong>, March 2016: <em>"Process Com"</em> - <a href="http://www.institut-repere.com/Infos-pratiques/soirees-decouverte.html">event</a></li>
  	<li><strong>Algorithm Study Paris</strong>, February 2016: "Session d'étude n°1" - <a href="http://www.meetup.com/fr-FR/algolovers/events/228424588/">event</a></li>
