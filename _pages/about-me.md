@@ -10,6 +10,7 @@ post_date: 2014-04-28 18:12:07
 ---
 Entrepreneur, Developer, Investor, Knowledge Sharer.
 <span style="line-height: 1.5;">Learn &amp; Improve.
+</span><span style="line-height: 1.5;">Obsessed with self-development.
 </span><span style="line-height: 1.5;">Unconditional Love to Life.
 </span><span style="line-height: 1.5;">Eclectic by nature.
 </span><span style="line-height: 1.5;">staff </span><a style="line-height: 1.5;" href="https://twitter.com/ParisAndroidUG">@ParisAndroidUG</a>
