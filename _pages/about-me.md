@@ -30,6 +30,7 @@ Entrepreneur, Developer, Investor, Knowledge Sharer.
  	<li><strong>AvoltaPartners - Wework</strong>, September 2017 : <em>"Initial Coin Offering (ICO) : mode d'emploi"</em> - <a href="https://avoltapartners.typeform.com/to/oL20dk">event</a></li>
  	<li><strong>Paug</strong>, September 2017: <em>"Apero : Instant Apps &amp; Autofill"</em> - <a href="https://www.meetup.com/fr-FR/Android-Paris/events/243296933/">event</a></li>
  	<li><strong>France Digital Days</strong>, September 2017 - <a href="http://www.francedigitale.org/FDDay/">event</a></li>
+ 	<li><strong>Paug</strong>, August 2017: <em>"Apero : DataBinding"</em> - <a href="https://www.meetup.com/fr-FR/Android-Paris/events/242254373/">event</a> <a href="https://docs.google.com/presentation/d/1iGhQ_wqP_YeFBjzKSCK5_VxOrk48xECUUF8Ooh_UIHw/edit#slide=id.gc6f9e470d_0_0">slides</a></li>
  	<li><strong>Entrepreneurs Evolutionnaires</strong>, March 2016: <em>"Positive thinking"</em> - <a href="http://www.meetup.com/les-entrepreneurs-evolutionnaires/events/227991285">event</a></li>
  	<li><strong>Institut Repère</strong>, March 2016: <em>"Process Com"</em> - <a href="http://www.institut-repere.com/Infos-pratiques/soirees-decouverte.html">event</a></li>
  	<li><strong>Algorithm Study Paris</strong>, February 2016: "Session d'étude n°1" - <a href="http://www.meetup.com/fr-FR/algolovers/events/228424588/">event</a></li>
