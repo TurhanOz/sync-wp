@@ -27,6 +27,7 @@ Entrepreneur, Developer, Investor, Knowledge Sharer.
 <h1>Conferences I have attended or organized</h1>
 (This list is not exhaustive at all; history to complete from 2008 to 2016)
 <ul>
+ 	<li><strong>ParisBioHacking</strong>, September2017 : "Introduction to BioHacking" - <a href="https://www.meetup.com/fr-FR/Paris-Biohacking-Meetup/events/243675767/">event</a></li>
  	<li><strong>AvoltaPartners - Wework</strong>, September 2017 : <em>"Initial Coin Offering (ICO) : mode d'emploi"</em> - <a href="https://avoltapartners.typeform.com/to/oL20dk">event</a></li>
  	<li><strong>Paug</strong>, September 2017: <em>"Apero : Instant Apps &amp; Autofill"</em> - <a href="https://www.meetup.com/fr-FR/Android-Paris/events/243296933/">event</a></li>
  	<li><strong>France Digital Days</strong>, September 2017 - <a href="http://www.francedigitale.org/FDDay/">event</a></li>
