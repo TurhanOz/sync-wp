@@ -86,7 +86,7 @@ post_date: 2017-09-30 14:51:06
 <div class="DocumentEditor-HeadingNode">
 <h2 data-key="14483"><span data-key="14482">What do I have left in my pocket ?</span></h2>
 </div>
-<p data-key="14485"><span data-key="14484">So let's do the math. I need to transform my 1.16€ of play store net revenue into a net salary, applying the employer security contributions as well as the payroll expenses.</span></p>
+<p data-key="14485"><span data-key="14484">So let's do the math. <strong>I need to transform my 1.16€ of play store net revenue into a net salary</strong>, applying the employer security contributions as well as the payroll expenses.</span></p>
 
 <div class="DocumentEditor-HeadingNode">
 <h3 data-key="14487"><span data-key="14486">Gross Salary</span></h3>
