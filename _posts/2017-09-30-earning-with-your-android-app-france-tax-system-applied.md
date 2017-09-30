@@ -68,7 +68,7 @@ post_date: 2017-09-30 14:51:06
 <div class="DocumentEditor-HeadingNode">
 <h2 data-key="14443"><span data-key="14442">Salary</span></h2>
 </div>
-<p data-key="14449"><span data-key="14444">To pay yourself a salary, you have to distribute taxes as form of contributions in 2 steps : <strong>employer security contributions</strong> &amp; <strong>payroll expenses</strong>. Hold on to your hats, that become very interesting and surreal for a non French taxpayer.</span></p>
+<p data-key="14449"><span data-key="14444">To pay yourself a salary, you have to distribute taxes as form of contributions in 2 steps : <strong>employer security contributions</strong> (<em>charges patronales</em>) &amp; <strong>payroll expenses </strong>(<em>charges salariales</em>). Hold on to your hats, that become very interesting and surreal for a non French taxpayer.</span></p>
 <p data-key="14457"><span data-key="14450">What your employer withdraw you in the end of the month is your <strong>net salary</strong>. This net salary excludes the payroll expenses. Combining your net salary with your payroll expenses gives you your <strong>gross salary</strong>. Above your gross salary, the employer should pay the "<strong>employer security contributions</strong>" calculated against your gross salary. In my case, as a solo developer and company owner, I'm at the same time my employer as well as my employee, so I have to pay the full taxes along the chain.</span></p>
 <p data-key="14459"><span data-key="14458">So, to give you a clear idea, here is the cut :</span></p>
 <p data-key="14465"><span data-key="14460">Business Revenue (Play Store) -&gt; Employer Security contributions -&gt; Gross salary -&gt; Net salary -&gt; Enjoy</span></p>
