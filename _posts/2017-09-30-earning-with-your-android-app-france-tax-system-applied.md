@@ -123,7 +123,7 @@ post_date: 2017-09-30 14:51:06
 <h2 data-key="14544"><span data-key="14543">Why making app then ?</span></h2>
 </div>
 <p data-key="14546"><span data-key="14545">I can't pay myself a decent salary out of my spare time apps, but fortunately, I have a real job as a freelancer developer that allows me to decently fulfill my expenses in a city like Paris.</span></p>
-<p data-key="14548"><span data-key="14547">Also publishing app brings me way more than money, which is in fact not easily quantifiable : satisfaction &amp; sense of accomplishment. Check this reviews :</span></p>
+<p data-key="14548"><span data-key="14547">Also publishing app brings me way more than money, which is in fact not easily quantifiable : satisfaction &amp; sense of accomplishment. Check these reviews :</span></p>
 <p data-key="14548"><em>Review #1 :</em></p>
 <p data-key="14548"><a href="http://turhanoz.com/wp-content/uploads/2017/09/Capture-d’écran-2017-09-30-à-16.28.07.png"><img class="alignnone wp-image-446 size-large" src="http://turhanoz.com/wp-content/uploads/2017/09/Capture-d’écran-2017-09-30-à-16.28.07-1024x83.png" alt="" width="634" height="51" /></a></p>
 <p data-key="14548"><em>Review #2 : </em></p>
