@@ -13,6 +13,7 @@ post_date: 2017-09-30 14:51:06
 ---
 <p data-key="14317"><span data-key="14301">Money, money... That's a big topic most of people are interested in! And there is a myth around solo developers (that I belong to) that publish their own apps on the Play store. I'm writing this article to demystify this bias by testifying out of my experience for the past few years. I won't talk in this article about how to sell more (with growth tips) and therefore to earn more, but rather <strong>how much you could expect to earn out of a sell on the PlayStore when you are a French resident</strong> (with the whole legal aspect of the earning).</span></p>
 <p data-key="14317"><img class="size-large aligncenter" src="https://i.pinimg.com/564x/e9/4f/7d/e94f7d8f313f0a9df892bfdd9d95c86e--easy-money-online-money-quotes.jpg" width="478" height="269" /></p>
+<p data-key="14317"><!--more--></p>
 
 <div class="DocumentEditor-HeadingNode">
 <h2 data-key="14319"><span data-key="14318">Selling on the PlayStore</span></h2>
