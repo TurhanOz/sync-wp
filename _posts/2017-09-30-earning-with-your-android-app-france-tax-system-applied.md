@@ -110,7 +110,7 @@ post_date: 2017-09-30 14:51:06
 </div>
 <p data-key="14511"><span data-key="14504">Let's go a bit deeper. Like any other country, you have the <strong>income tax liability</strong> (<em>impôts sur le revenu</em>) that is calculated on your net earning. In France, there are tax brackets (14%, 30% ...) depending on your overall earning. So part of your income would be taxed at 14% whereas other part at 30% &amp; more.</span></p>
 <p data-key="14513"><span data-key="14512">Let's consider that the 0.49€ you just earned as a net salary is taxed in the 30% bracket, that means that you will have 70% left to yourself, which is 0.34€.</span></p>
-<p data-key="14517"><span data-key="14514">Congratulation, you can now spend 0.34€ out of your 1.99€ sell. Wanna give more ? You can my friend :) If you want to spend this 0.34€ on anything, the state applies 20% VAT, remember ? :p so when you spend your 0.34€, you actually pay 0.28€ for the business and 0.06€ to the state.</span></p>
+<p data-key="14517"><span data-key="14514"><strong>Congratulation, you can now spend 0.34€ out of your 1.99€ sell</strong>. Wanna give more ? You can my friend :) If you want to spend this 0.34€ on anything, the state applies 20% VAT, remember ? :p so when you spend your 0.34€, you actually pay 0.28€ for the business and 0.06€ to the state.</span></p>
 <p data-key="14520"><span data-key="14518">The state always wins out of your work, that's how it works in case you forgot :)</span></p>
 
 <div class="DocumentEditor-HeadingNode">
